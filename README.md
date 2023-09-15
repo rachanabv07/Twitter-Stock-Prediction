@@ -1,4 +1,4 @@
-# Project : Twitter stock Prediction
+# Project : Twitter Stock Prediction
 
 ## Dataset
 - DataSet is taken from Kaggle - https://www.kaggle.com/datasets/maharshipandya/twitter-stocks-dataset?select=twitter-stocks.csv 
